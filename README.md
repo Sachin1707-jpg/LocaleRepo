@@ -1,3 +1,3 @@
-#this is my locale repo
+# this is my locale repo
 <br>
 aurthor : Sachin Verma
